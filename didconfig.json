@@ -1,7 +1,7 @@
 {
     "azTenantId": "156105cf-2fc2-4b27-ac8a-b40c05ef658f",
     "azClientId": "cf445bf6-8947-4e3c-a650-dd59b4c29eae",
-    "azClientSecret": "-6_~I736.FS6V29aS7MaocUG_3n.wI0RDP",
+    "azClientSecret": "",
     "kvVaultUri": "https://didoutsidekey.vault.azure.net/",
     "kvSigningKeyId": "sig_3eb18373",
     "kvRemoteSigningKeyId" : "issuerSigningKeyIon-3eb18373-b2bb-e794-ebef-f6b6a2344b31/19ba1599950f4e388f8fbe82c0ed8354",
